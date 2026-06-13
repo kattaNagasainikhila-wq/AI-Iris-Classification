@@ -1,13 +1,5 @@
 # AI-Iris-Classification
 Iris Classification - PROJECT 2 AT DECODE LABS 
-
----
-
-# 🌸 Project 2: Iris Flower Classification README
-
-**Repository:** AI-Iris-Classification
-
-```markdown
 # 🌸 Iris Flower Classification using K-Nearest Neighbors (KNN)
 
 ## 📌 Project Overview
@@ -17,8 +9,6 @@ This project implements a Machine Learning Classification Model using the famous
 The model predicts the species of Iris flowers based on their petal and sepal measurements.
 
 Developed as part of my AI Internship at DecodeLabs.
-
----
 
 ## 🚀 Features
 
@@ -38,8 +28,6 @@ Developed as part of my AI Internship at DecodeLabs.
 
 ✅ Performance Analysis
 
----
-
 ## 🛠️ Technologies Used
 
 - Python
@@ -47,8 +35,6 @@ Developed as part of my AI Internship at DecodeLabs.
 - NumPy
 - Matplotlib
 - Seaborn
-
----
 
 ## 📊 Model Performance
 
@@ -62,20 +48,6 @@ Developed as part of my AI Internship at DecodeLabs.
 ### Confusion Matrix
 
 The model successfully classified all test samples without errors.
-
----
-
-## 📂 Project Structure
-
-AI-Iris-Classification/
-
-├── iris_classifier.py
-
-├── README.md
-
-├── confusion_matrix.png
-
----
 
 ## ▶️ How to Run
 
